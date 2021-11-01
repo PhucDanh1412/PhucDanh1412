@@ -1,6 +1,6 @@
+                                                     🎊WELCOME TO MY PROFILE🎊
 **_✨ SELF INTRODUCTION ✨_**
 <img align="right" width="435px" alt="GIF" src="https://i.pinimg.com/originals/29/a8/37/29a8376d76e64b4e891a658a08cdda1a.gif" />
----
 - 👨🏻‍🎓 Ngô Phúc Danh 
 - 🔖 21521924 
 - 📅 29-11-2003 
@@ -16,6 +16,14 @@
 - Incipient period: \
   <img width="100px" src="https://i.ibb.co/MDHTKhG/Python3.png" alt="Python3" border="0" />
   <img width="100px" src="https://i.ibb.co/LCd3gKM/Javascript.png" alt="Javascript" border="0" />
+ ---
+ **_✨ SOMETHING ABOUT ME👉🏻👈🏻 ✨_**
+ <img align="right" width="170px" alt="GIF" src="https://cdni.iconscout.com/illustration/premium/thumb/developer-2143200-1801815.png" />
+ - 👋🏻 Hi there, i'm Danh and a member of "The Amazing World Of Hexagon".🎇
+ - 💻 I'm studying programming languages and my deparment is computer science.⌨
+ - 🔬 As a laboious student, i'm interested in learning science especially in astronomy.👨🏻‍🚀
+ - 👀 Team collaboration is very important and i always try to work effectively with everyone.👌🏻
+ - 📓 at the age of 18, i would like to learn as much as possible in soft and hard skills.📈
  ---
 > contact for work
 <a href="https://www.facebook.com/ciel.lucius">
