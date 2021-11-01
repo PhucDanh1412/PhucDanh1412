@@ -14,8 +14,23 @@
 ---
 > contact for work
 <a href="https://www.facebook.com/ciel.lucius">
-  <img align="left" alt="Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
+  <img align="left" alt="facebook" width="25px" src="https://img.icons8.com/fluency/240/000000/facebook-new.png" />
 </a>
+<a href="https://www.instagram.com/ph_zanh/">
+  <img align="left" alt="instagram" width="25px" src="https://img.icons8.com/fluency/240/000000/instagram-new.png" />
+</a>
+<a href="21521924@gm.uit.edu.vn">
+  <img align="left" alt="gmail" width="25px" src="https://img.icons8.com/color/240/000000/gmail-new.png" />
+</a>
+<a href="https://twitter.com/PhcDanh11">
+  <img align="left" alt="twitter" width="25px" src="https://img.icons8.com/color/240/000000/twitter.png" />
+</a>
+<a href="https://steamcommunity.com/profiles/76561198406783644/">
+  <img align="left" alt="steam" width="25px" src="https://img.icons8.com/fluency/240/000000/steam.png" />
+</a>
+
+
+
 
 
 
