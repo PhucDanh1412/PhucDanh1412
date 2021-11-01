@@ -21,7 +21,7 @@
  <img align="right" width="170px" alt="GIF" src="https://cdni.iconscout.com/illustration/premium/thumb/developer-2143200-1801815.png" />
  - 👋🏻 Hi there, i'm Danh and a member of "The Amazing World Of Hexagon".🎇
  - 💻 I'm studying programming languages and my deparment is computer science.⌨
- - 🔬 As a laboious student, i'm interested in learning science especially in astronomy.👨🏻‍🚀
+ - 🔬 As a laborious student, i'm interested in learning science especially in astronomy.👨🏻‍🚀
  - 👀 Team collaboration is very important and i always try to work effectively with everyone.👌🏻
  - 📓 at the age of 18, i would like to learn as much as possible in soft and hard skills.📈
  ---
