@@ -1,5 +1,5 @@
 **_✨ SELF INTRODUTION ✨_**
-<img align="right" width="450px" alt="GIF" src="https://i.pinimg.com/originals/29/a8/37/29a8376d76e64b4e891a658a08cdda1a.gif" />
+<img align="right" width="430px" alt="GIF" src="https://i.pinimg.com/originals/29/a8/37/29a8376d76e64b4e891a658a08cdda1a.gif" />
 ---
 - 👨🏻‍🎓 Ngô Phúc Danh 
 - 🔖 21521924 
