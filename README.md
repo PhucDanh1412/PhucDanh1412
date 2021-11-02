@@ -25,6 +25,8 @@
  - 👀 Team collaboration is very important and i always try to work effectively with everyone.👌🏻
  - 📓 at the age of 18, i would like to learn as much as possible in soft and hard skills.📈
  ---
+ [![ＳＰΛＣΞ's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhucDanh1412&show_icons=true&locale=en&theme=radical&cache_seconds=1800&custom_title=ＳＰΛＣΞ'sGS&card_width=5)](https://github.com/PhucDanh1412/github-readme-stats)
+ 
 > contact for work
 <a href="https://www.facebook.com/ciel.lucius">
   <img align="left" alt="facebook" width="25px" src="https://img.icons8.com/fluency/240/000000/facebook-new.png" />
@@ -41,10 +43,6 @@
 <a href="https://steamcommunity.com/profiles/76561198406783644/">
   <img align="left" alt="steam" width="25px" src="https://img.icons8.com/fluency/240/000000/steam.png" />
 </a>
-
-
-
-
 
 
 
