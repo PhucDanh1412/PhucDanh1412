@@ -1,4 +1,4 @@
-                                                   🎊WELCOME TO MY PROFILE🎊
+
 **_✨ SELF INTRODUCTION ✨_**
 <img align="right" width="435px" alt="GIF" src="https://i.pinimg.com/originals/29/a8/37/29a8376d76e64b4e891a658a08cdda1a.gif" />
 - 👨🏻‍🎓 Ngô Phúc Danh 
@@ -8,6 +8,9 @@
 - 📚 First-year student 
 - 🏫 University of Information Technology VNU-HCM 
 ---
+[![ＳＰΛＣΞ's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhucDanh1412&show_icons=true&count_private=true&locale=en&theme=radical&cache_seconds=1800&custom_title=ＳＰΛＣΞ'sGS)](https://github.com/anuraghazra/github-readme-stats)
+
+
 **_✨ LEARNING ROUTES ✨_** 
 - In the process of: \
   <img width="92px" src="https://i.ibb.co/cD7rgYW/readme-logo-C.png" border="0" />
