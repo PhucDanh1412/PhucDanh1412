@@ -8,9 +8,6 @@
 - 📚 First-year student 
 - 🏫 University of Information Technology VNU-HCM 
 ---
-[![ＳＰΛＣΞ's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhucDanh1412&show_icons=true&count_private=true&locale=en&theme=radical&cache_seconds=1800&custom_title=ＳＰΛＣΞ'sGS)](https://github.com/anuraghazra/github-readme-stats)
-
-
 **_✨ LEARNING ROUTES ✨_** 
 - In the process of: \
   <img width="92px" src="https://i.ibb.co/cD7rgYW/readme-logo-C.png" border="0" />
@@ -28,6 +25,7 @@
  - 👀 Team collaboration is very important and i always try to work effectively with everyone.👌🏻
  - 📓 at the age of 18, i would like to learn as much as possible in soft and hard skills.📈
  ---
+ [![ＳＰΛＣΞ's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhucDanh1412&show_icons=true&count_private=true&locale=en&theme=radical&cache_seconds=1800&custom_title=ＳＰΛＣΞ'sGS)](https://github.com/anuraghazra/github-readme-stats)
 > contact for work
 <a href="https://www.facebook.com/ciel.lucius">
   <img align="left" alt="facebook" width="25px" src="https://img.icons8.com/fluency/240/000000/facebook-new.png" />
