@@ -11,11 +11,11 @@
 **_✨ LEARNING ROUTES ✨_** 
 - In the process of: \
   <img width="92px" src="https://i.ibb.co/cD7rgYW/readme-logo-C.png" border="0" />
-  <img width="100px" src="https://i.ibb.co/Gs13k6v/HTML5.png" alt="HTML5" border="0" />
-  <img width="100px" src="https://i.ibb.co/WWjW9Xm/CSS3.png" alt="CSS3" border="0" />
+  <img width="108px" src="https://i.ibb.co/Gs13k6v/HTML5.png" alt="HTML5" border="0" />
+  <img width="92px" src="https://i.ibb.co/WWjW9Xm/CSS3.png" alt="CSS3" border="0" />
 - Incipient period: \
   <img width="100px" src="https://i.ibb.co/MDHTKhG/Python3.png" alt="Python3" border="0" />
-  <img width="100px" src="https://i.ibb.co/LCd3gKM/Javascript.png" alt="Javascript" border="0" />
+  <img width="115px" src="https://i.ibb.co/LCd3gKM/Javascript.png" alt="Javascript" border="0" />
  ---
 **_✨ SOMETHING ABOUT ME👉🏻👈🏻 ✨_**
  <img align="right" width="170px" alt="GIF" src="https://cdni.iconscout.com/illustration/premium/thumb/developer-2143200-1801815.png" />
